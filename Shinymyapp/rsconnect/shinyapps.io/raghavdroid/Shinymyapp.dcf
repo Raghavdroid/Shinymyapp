@@ -1,0 +1,12 @@
+name: Shinymyapp
+title: Shinymyapp
+username:
+account: raghavdroid
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2765441
+bundleId: 3603081
+url: https://raghavdroid.shinyapps.io/Shinymyapp/
+when: 1599498380.09271
+asMultiple: FALSE
+asStatic: FALSE
